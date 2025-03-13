@@ -1,1 +1,1 @@
-# password-generated
+# password-generator
